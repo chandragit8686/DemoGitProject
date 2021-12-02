@@ -8,7 +8,7 @@ public class Demo2 {
 		if (hunger == "yes") {
 			System.out.println("eat something");
 		} else {
-			System.out.println("then Work.......");
+			System.out.println("then Work.......bye");
 		}
 	}
 
